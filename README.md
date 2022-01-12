@@ -1,5 +1,6 @@
 # PermissionX
-第一行代码的封装库实战
+第一行代码的封装库实战，最后一章是推送到jcenter，由于学习时jcenter已经停止服务了，所以没有跟着做。
+
 PermissionX是一个用于简化Android运行是权限用法的开源库。
 添加如下配置将PermissionX引入到你的项目中：
 ```groovy
